@@ -2,6 +2,10 @@
   "name": "Wieldy",
   "version": "1.7.0",
   "private": true,
+  "engines": {
+    "node": "9.5.0",
+    "npm": "5.7.1"
+  },
   "dependencies": {
     "@amcharts/amcharts3-react": "^3.1.0",
     "amcharts3": "^3.21.13",
