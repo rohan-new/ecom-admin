@@ -57,6 +57,7 @@
     "rheostat": "^3.0.1",
     "slick-carousel": "^1.8.1",
     "url-search-params": "^1.1.0",
+    "react-app-rewired": "^2.0.2",
     "victory": "^0.27.2"
   },
   "scripts": {
